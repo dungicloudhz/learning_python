@@ -9,13 +9,13 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
 
 **Mục tiêu:** Nắm cú pháp, kiểu dữ liệu, cấu trúc điều khiển.
 
-1. **Cài đặt và môi trường làm việc**
+#### 1. **Cài đặt và môi trường làm việc**
 
    - Cài Python & pip
    - IDE: PyCharm, VSCode hoặc Jupyter Notebook
    - Chạy file `.py` và dùng Python REPL
 
-2. **Cú pháp & biến**
+#### 2. **Cú pháp & biến**
    - Biến, hằng số, quy tắc đặt tên
      - Hằng số: Python không có **const**, nhưng quy ước viết hoa.
        ```python
@@ -31,7 +31,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
         name = intput("Nhập tên của bạn: ")
         print("Xin chào", name)
      ```
-3. **Kiểu dữ liệu cơ bản**
+#### 3. **Kiểu dữ liệu cơ bản**
    - `int`, `float`, `str`, `bool`
    - Ép kiểu (`int()`, `str()`…)
      ```python
@@ -39,7 +39,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
      y = float("3.14") # chuỗi -> số thực
      s = str(100) # số -> chuỗi
      ```
-4. **Toán tử**
+#### 4. **Toán tử**
    - Số học
    ```python
       a,b = 5, 2
@@ -67,7 +67,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
       x //= 3 # 5
       x %= 2 # 1
    ```
-5. **Cấu trúc điều khiển**
+#### 5. **Cấu trúc điều khiển**
    - `if`, `elif`, `else`
    ```python
       n = 7
@@ -99,7 +99,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
       print(i)
    ```
 
-6. **Collections**
+#### 6. **Collections**
    - `list`, `tuple`, `set`, `dict`
    - Các method thường dùng (`append`, `remove`, `keys`, `values`…)
    ##### 6.1 List (mutable, có thứ tự, cho phép trùng lặp)
