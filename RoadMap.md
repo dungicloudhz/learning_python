@@ -184,7 +184,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
    print(person.keys())
    print(person.values())
 ```
-##### 5. Tóm tắt nhanh
+##### 6.5 Tóm tắt nhanh
 
 | Kiểu | Có thứ tự | Cho phép trùng lặp | Mutable | Thêm/Xóa/Sửa được |
 |------|-----------|-------------------|---------|-------------------|
@@ -192,7 +192,7 @@ Bạn có thể áp dụng lộ trình này dù học để làm **web, data, AI
 | tuple | ✅ | ✅ | ❌ | ❌ |
 | set | ❌ | ❌ | ✅ | ✅ |
 | dict | ❌ *(Python 3.7+ giữ thứ tự chèn)* | ❌ (key) | ✅ | ✅ |
-7. **Hàm (function)**
+#### 7. **Hàm (function)**
    ##### 7.1 Định nghĩa và gọi hàm (`def`)
    - Hàm giúp nhóm các đoạn code có chức năng giống nhau vào một khối để tái sử dụng
    - Cú pháp:
